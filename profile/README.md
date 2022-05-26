@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
@@ -12,6 +11,7 @@
 -->
 
 **Computadoras, Objetos y Comunicaciones S.A. de C.V.**
+
 _coobco_
 
 _La Empresa_
@@ -26,15 +26,18 @@ presencia global.
 Actualmente enfoca sus actividades como sigue:
 
 _Visión_
+
 Incentivar, con otra perspectiva de capital de riesgo, actividades
 relacionadas con la investigación básica, el desarrollo tecnológico y la
 innovación en el dominio del Conocimiento Organizacional.
 
 _Misión_ 
+
 Enfrentar un problema sistémico en el dominio del Conocimiento Organizacional y propiciar
 su solución con el modelo MACOSC-IASC^®.
 
 _Servicios_
+
 Nuestro servicio de implantación del modelo MACOSC-IASC^® utiliza estándares de la industria del
 software, se respalda en varios años de investigación científica y en dos
 décadas de experiencia práctica. Con un nuevo enfoque teórico y otra
